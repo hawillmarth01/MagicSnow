@@ -10,3 +10,5 @@ In addition to the simple particle system implementation, a basic collision dete
 ## Usage Notes
 This code is written in Python 3 and is meant to be run within Blender. The Blender file is not included in this repo.
 
+## Result
+![](demo.gif)
